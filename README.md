@@ -1,9 +1,10 @@
 <div align="center">
-
+  
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeauto&height=200&section=header&text=JeongWoo&fontColor=fcba03&fontSize=90&fontAlign=72&fontAlignY=25&desc=CHANG&descSize=40&descAlign=90&descAlignY=50)
 
 </div>
-
+<br>
+<br>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
